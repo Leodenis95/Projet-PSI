@@ -8,10 +8,11 @@ namespace Projet_PSI
         {
             Console.WriteLine("");
 
-            int n = 0;
+            int n = 1;
 
             Console.WriteLine(n);
 
         }
     }
 }
+
